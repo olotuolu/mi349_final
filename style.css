@@ -11,15 +11,9 @@ h1{
 h2{
     text-align: center;
 }
-#acount-creation{
+#acount-creation,p{
     text-align: right;
 }
-#page-links{
+#page-links,p{
     text-align: left;
-}
-#page-links{
-    display: flex;
-}
-#account-creation{
-    display: flex;
 }
