@@ -11,6 +11,9 @@ h1{
 h2{
     text-align: center;
 }
-h3{
+h3 #page{
     text-align: left;
+}
+h3 #account{
+    text-align: right;
 }
