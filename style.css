@@ -17,6 +17,9 @@ h2{
 #page-links{
     text-align: left;
 }
-#top-mid-section{
-    justify-content: space-between;
+#page-links{
+    display: flex;
+}
+#account-creation{
+    display: flex;
 }
