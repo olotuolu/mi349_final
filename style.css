@@ -11,9 +11,6 @@ h1{
 h2{
     text-align: center;
 }
-#acount-creation,a{
-    text-align: right;
-}
-#page-links,a{
+h3{
     text-align: left;
 }
