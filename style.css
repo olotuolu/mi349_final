@@ -6,11 +6,9 @@ section{
     background-color: rgb(47, 47, 47);
 }
 h1{
-    margin: 0 auto;
     text-align: center;
 }
 h2{
-    margin: 0 auto;
     text-align: center;
 }
 #acount-creation{
@@ -18,4 +16,7 @@ h2{
 }
 #page-links{
     text-align: left;
+}
+#top-mid-section{
+    display: flex;
 }
