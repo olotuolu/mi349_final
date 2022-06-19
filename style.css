@@ -5,9 +5,9 @@ body{
 section{
     background-color: rgb(47, 47, 47);
 }
-#top-section{
-    align-items: center;
+h1{
+    margin: 0 auto;
 }
-#top-mid-section{
-    display: flex;
+h2{
+    margin: 0 auto;
 }
