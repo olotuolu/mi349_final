@@ -13,3 +13,9 @@ h2{
     margin: 0 auto;
     text-align: center;
 }
+#acount-creation{
+    text-align: right;
+}
+#page-links{
+    text-align: left;
+}
