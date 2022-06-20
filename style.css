@@ -12,3 +12,9 @@ h1{
 h2{
     text-align: center;
 }
+.page{
+    text-align: left;
+}
+.account{
+    text-align: right;
+}
