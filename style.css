@@ -3,18 +3,12 @@ body{
     color: white;
 }
 section{
-    background-color: rgb(47, 47, 47);
-    margin: auto;
+    background-color: #2f2f2f;
+    margin-left: 80%;
 }
 h1{
     text-align: center;
 }
 h2{
     text-align: center;
-}
-.page{
-    text-align: left;
-}
-.account{
-    text-align: right;
 }
