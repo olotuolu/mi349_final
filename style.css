@@ -39,18 +39,26 @@ h2{
     height: 40px;
 }
 .sixth{
-    width: 35px;
-    height: 35px;
-}
-.seventh{
     width: 30px;
     height: 30px;
 }
-.eighth{
+.seventh{
     width: 25px;
     height: 25px;
 }
-.nineth{
+.eighth{
     width: 20px;
     height: 20px;
+}
+.nineth{
+    width: 15px;
+    height: 15px;
+}
+.tenth{
+    width: 10px;
+    height: 10px;
+}
+.eleventh{
+    width: 5px;
+    height: 5px;
 }
