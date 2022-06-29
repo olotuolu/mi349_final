@@ -69,3 +69,6 @@ label{
 form{
     align-items: center ;
 }
+.test-form{
+    display: flex;
+}
