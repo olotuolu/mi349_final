@@ -1,11 +1,14 @@
 body{
-    background-color: rgb(246, 246, 246);
+    background-color: rgb(255, 255, 255);
     color: rgb(14, 14, 14);
 }
 section{
     background-color: #f0f0f0;
     margin-left: 10%;
     margin-right: 10%;
+}
+#top-section{
+    text-align: center;
 }
 h1{
     text-align: center;
@@ -63,12 +66,25 @@ h2{
     height: 5px;
 }
 label{
-    margin: 20px;
-    padding: 20px;
+    display: inline-block;
+    width: 150px;
+    text-align: center;
 }
 form{
-    align-items: center ;
+    text-align: center ;
 }
-.test-form{
-    display: flex;
+img{
+    width: 200px;
+    height: 282.8px;
+    margin: 10px;
+}
+#main{
+    text-align: center;
+    background-color: rgb(19, 19, 19);
+}
+#account-header{
+    text-align: center;
+    background-color: #f0f0f0;
+    font-size: xx-large;
+    font-weight: bold;
 }
